@@ -1,3 +1,4 @@
+You can visit the Repository to get access.
 This is blockchain project of e commerce platform like amazon . 
 how to run
 terminal 1
